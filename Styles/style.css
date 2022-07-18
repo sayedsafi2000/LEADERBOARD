@@ -12,6 +12,8 @@ body {
     background-color: #F3F1FF;
 }
 
+/* ----------------header Start ---------------- */
+
 header {
     width: 100%;
     background-color: #562EFF;
@@ -49,7 +51,7 @@ header .logo {
     display: flex;
     justify-content: space-around;
     list-style-type: none;
-    gap: 36px
+    gap: 36px;
 }
 
 .right-header ul li {
@@ -62,6 +64,10 @@ header .logo {
     color: #fff;
 
 }
+
+/* ----------------------
+----Header End ----------
+---------------------------*/
 
 hr {
     border: 1px solid #D1D1D1;
